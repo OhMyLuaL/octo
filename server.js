@@ -3,7 +3,7 @@
 const express = require("express");
 const app = express();
 const port = process.env.port || 4444;
-const test = require("./routes/test");
+const test = require("./routes/authRoute");
 
 app.use(express.json());
 app.use("/test", test);
