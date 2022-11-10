@@ -1,10 +1,7 @@
 {
   "dependencies": {
     "express": "^4.18.2",
-<<<<<<< HEAD
     "pg": "^8.8.0"
-=======
     "react-router-dom": "^6.4.3"
->>>>>>> 804964ae66b5d7c0e84b8623ca465e5e9471c5b7
   }
 }
